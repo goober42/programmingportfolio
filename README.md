@@ -3,7 +3,7 @@
 ## Tech Certifications
 *Digital Media 1 State Certification
 
-![Digital Media 1]()
+![Digital Media 1](https://github.com/goober42/programmingportfolio/blob/main/images/Grayson%20Carter_Digital%20Media%20I_12182023.pdf)
 
 *Java Coding State Certification
 
