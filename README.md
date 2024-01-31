@@ -3,11 +3,11 @@
 ## Tech Certifications
 *Digital Media 1 State Certification
 
-![Digital Media 1](https://github.com/goober42/programmingportfolio/blob/main/images/graphiccert.pdf)
+[Digital Media 1](https://github.com/goober42/programmingportfolio/blob/main/images/graphiccert.pdf)
 
 *Java Coding State Certification
 
-![Java State Cert](https://github.com/goober42/programmingportfolio/blob/main/images/programcert.pdf)
+[Java State Cert](https://github.com/goober42/programmingportfolio/blob/main/images/programcert.pdf)
 
 ## Group Project
 
