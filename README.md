@@ -2,8 +2,11 @@
 
 ## Tech Certifications
 *Digital Media 1 State Certification
+
 ![Digital Media 1]()
+
 *Java Coding State Certification
+
 ![Java State Cert]()
 
 ## Group Project
