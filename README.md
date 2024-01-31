@@ -7,7 +7,7 @@
 
 *Java Coding State Certification
 
-![Java State Cert]()
+![Java State Cert](https://github.com/goober42/programmingportfolio/blob/main/images/Grayson%20Carter_Computer%20Programming%20I_12182023.pdf)
 
 ## Group Project
 
