@@ -20,3 +20,9 @@ OOP graphical game using sound and images for a full user experience.
 
 [Source Code](https://github.com/goober42/programmingportfolio/blob/main/src/SpaceGame.zip)
 
+### Number Guessing Game
+Python code that makes you guess a number between 1 and 100
+
+![Gameplay]()
+
+[Source Code]()
