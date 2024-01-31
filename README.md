@@ -23,6 +23,14 @@ OOP graphical game using sound and images for a full user experience.
 ### Number Guessing Game
 Python code that makes you guess a number between 1 and 100
 
-![Gameplay]()
+[Source Code](https://github.com/goober42/programmingportfolio/blob/main/src/main%20(4).py)
+
+### Random Word Generator
+Python code built around a list of prefixes, suffixes, roots, and their respective definitions that compiles them at random, and assigns an accurate description.
+
+[Source Code](https://github.com/goober42/programmingportfolio/blob/main/src/wordgen.py)
+
+### Pig Latin Translator
+Python code that takes a sentence in English and makes it pig latin
 
 [Source Code]()
