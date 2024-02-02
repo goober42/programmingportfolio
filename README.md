@@ -25,6 +25,8 @@ Python code that makes you guess a number between 1 and 100
 
 [Source Code](https://github.com/goober42/programmingportfolio/blob/main/src/main%20(4).py)
 
+![Gameplay](https://github.com/goober42/programmingportfolio/blob/main/images/Screenshot%202024-02-02%20at%2010.54.42%20AM.png)
+
 ### Random Word Generator
 Python code built around a list of prefixes, suffixes, roots, and their respective definitions that compiles them at random, and assigns an accurate description.
 
