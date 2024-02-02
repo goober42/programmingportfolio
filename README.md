@@ -32,6 +32,8 @@ Python code built around a list of prefixes, suffixes, roots, and their respecti
 
 [Source Code](https://github.com/goober42/programmingportfolio/blob/main/src/wordgen.py)
 
+![Gameplay](https://github.com/goober42/programmingportfolio/blob/main/images/wordgen.png)
+
 ### Pig Latin Translator
 Python code that takes a sentence in English and makes it pig latin
 
