@@ -47,3 +47,12 @@ App that "sings" the 99 bottles song with a changable starting amount of bottles
 [Source Code](https://github.com/goober42/programmingportfolio/blob/main/src/bottles.py)
 
 ![BottlesSong](https://github.com/goober42/programmingportfolio/blob/main/images/bottles.png)
+
+### Calculator App
+Java-coded calculator.
+
+[Source Code](https://github.com/goober42/programmingportfolio/blob/main/src/Calculator.zip)
+
+[Blank Calculator](https://github.com/goober42/programmingportfolio/blob/main/images/BlankCalc.png)
+
+[Calculated](https://github.com/goober42/programmingportfolio/blob/main/images/Calculated.png)
