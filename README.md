@@ -53,6 +53,6 @@ Java-coded calculator.
 
 [Source Code](https://github.com/goober42/programmingportfolio/blob/main/src/Calculator.zip)
 
-[Blank Calculator](https://github.com/goober42/programmingportfolio/blob/main/images/BlankCalc.png)
+![Blank Calculator](https://github.com/goober42/programmingportfolio/blob/main/images/BlankCalc.png)
 
-[Calculated](https://github.com/goober42/programmingportfolio/blob/main/images/Calculated.png)
+![Calculated](https://github.com/goober42/programmingportfolio/blob/main/images/Calculated.png)
