@@ -39,6 +39,8 @@ Python code that takes a sentence in English and makes it pig latin
 
 [Source Code](https://github.com/goober42/programmingportfolio/blob/main/src/piglatin.py)
 
+![PigLatGame](https://github.com/goober42/programmingportfolio/blob/main/images/piglatingame.png)
+
 ### 99 Bottlles App
 App that "sings" the 99 bottles song with a changable starting amount of bottles.
 
