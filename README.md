@@ -18,14 +18,14 @@ OOP graphical game using sound and images for a full user experience.
 
 [Source Code](https://github.com/goober42/programmingportfolio/blob/main/src/SpaceGame.zip)
 
-![Gameplay](https://github.com/goober42/programmingportfolio/blob/main/images/sg1.png)
+![Gameplay](images/sg1.png)
 
 ### Number Guessing Game
 Python code that makes you guess a number between 1 and 100
 
 [Source Code](https://github.com/goober42/programmingportfolio/blob/main/src/main%20(4).py)
 
-![Gameplay](https://github.com/goober42/programmingportfolio/blob/main/images/Screenshot%202024-02-02%20at%2010.54.42%20AM.png)
+![Gameplay](images/Screenshot 2024-02-02 at 10.54.42 AM.png)
 
 ### Random Word Generator
 Python code built around a list of prefixes, suffixes, roots, and their respective definitions that compiles them at random, and assigns an accurate description.
@@ -39,20 +39,20 @@ Python code that takes a sentence in English and makes it pig latin
 
 [Source Code](https://github.com/goober42/programmingportfolio/blob/main/src/piglatin.py)
 
-![PigLatGame](https://github.com/goober42/programmingportfolio/blob/main/images/piglatingame.png)
+![PigLatGame](images/piglatingame.png)
 
 ### 99 Bottles App
 App that "sings" the 99 bottles song with a changable starting amount of bottles.
 
 [Source Code](https://github.com/goober42/programmingportfolio/blob/main/src/bottles.py)
 
-![BottlesSong](https://github.com/goober42/programmingportfolio/blob/main/images/bottles.png)
+![BottlesSong](images/bottles.png)
 
 ### Calculator App
 Java-coded calculator.
 
 [Source Code](https://github.com/goober42/programmingportfolio/blob/main/src/Calculator.zip)
 
-![Blank Calculator](https://github.com/goober42/programmingportfolio/blob/main/images/BlankCalc.png)
+![Blank Calculator](images/BlankCalc.png)
 
-![Calculated](https://github.com/goober42/programmingportfolio/blob/main/images/Calculated.png)
+![Calculated](images/Calculated.png)
