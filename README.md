@@ -61,3 +61,7 @@ Java-coded calculator.
 ![Blank Calculator](images/BlankCalc.png)
 
 ![Calculated](images/Calculated.png)
+
+### Pokemon but Rats
+#### Pokemon but you are fighting rats in new york
+##### I haven't done anything with this yet.
