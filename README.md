@@ -64,4 +64,5 @@ Java-coded calculator.
 
 ### Pokemon but Rats
 #### Pokemon but you are fighting rats in new york
-##### I haven't done anything with this yet.
+##### Here is the link to the github repo for it:
+###### [rats](https://goober42.github.io/rats/)
